@@ -1,0 +1,46 @@
+.menu{
+float:right;
+margin: 20px 20px;	
+}
+
+
+.logo{
+margin: 20px 20px;
+}
+.form_seach{
+	margin-top:10px;
+}
+.avatar{
+	width:40px;
+	height:40px;
+	float: left;
+	margin-right: 10px;
+}
+.header_content{
+
+margin: 40px 0 20px;
+}
+
+p {
+	margin:0;
+	font-size: 11px;
+}
+
+.content{
+max-width: 400px;
+margin: 0 auto;
+
+}
+
+.foto{
+	width:400px;
+}
+
+#like{
+padding: 10px;
+}
+
+.like{
+width: 20px;
+
+}
